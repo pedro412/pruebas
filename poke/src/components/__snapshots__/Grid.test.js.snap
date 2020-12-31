@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Grid /> should render correctly 1`] = `
+<Fragment>
+  <h1>
+    Grid
+  </h1>
+  <div
+    className="alert"
+  >
+    No Pokemon captured yet
+  </div>
+  <div
+    className="grid"
+  />
+</Fragment>
+`;

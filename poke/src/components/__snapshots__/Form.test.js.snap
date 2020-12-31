@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> should render correctly 1`] = `
+<Fragment>
+  <h1>
+    Form
+  </h1>
+  <form
+    id="form"
+    onSubmit={[Function]}
+  >
+    <input
+      name="name"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+    <button>
+      Catch
+    </button>
+  </form>
+</Fragment>
+`;
